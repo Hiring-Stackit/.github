@@ -1,18 +1,13 @@
-![Website](https://img.shields.io/website?up_color=green&up_message=up%20%26%20running&url=https%3A%2F%2Fwww.nowstackit.com%2F)
-![We are hiring](https://img.shields.io/badge/hiring-yes-important)
-![Google Cloud Platform](https://img.shields.io/badge/Platform-Google%20Cloud-blue)
-
 <p align="center">
 <a href="https://nowstackit.com" target="_blank"><img src="https://github.com/Hiring-Stackit/.github/assets/51060067/d29fb416-2337-4744-a2fa-6925868d0ce9" border="0" title="StackIt!" alt="StackIt!"></a> </p>
 
-<h3 align="center"> Hello World! </h3>
-<h4 align="center"> Did you know all data lead to spreadsheets? That is why we are building StackIt. </h4>
+<p align="center"> Hello World! </p>
+<p align="center"> Did you know all data lead to spreadsheets? That is why we are building StackIt. </p>
 
-<h4 align="center">StackIt is a powerful plugin that empowers business teams to effortlessly gather data from various sources, seamlessly merge it right within Google Sheets or Microsoft Excel, and create dynamic workflows with unparalleled ease and efficiency. </h4>
+<p align="center">StackIt is a powerful plugin that empowers business teams to effortlessly gather data from various sources, seamlessly merge it right within Google Sheets or Microsoft Excel, and create dynamic workflows with unparalleled ease and efficiency. </p>
 
 
-<p align="center"> Stackit :heart: developer communities! </p>
------
+<p align="center"> <a href="https://github.com/nowstackit">StackIt</a> :heart: developer communities! </p>
 
 <div align="center">
 <h3>Connect With us on</h3>
