@@ -1,11 +1,9 @@
 ![Website](https://img.shields.io/website?up_color=green&up_message=up%20%26%20running&url=https%3A%2F%2Fwww.nowstackit.com%2F)
 ![We are hiring](https://img.shields.io/badge/hiring-yes-important)
-![Backend](https://img.shields.io/badge/backend-nodejs-blue)
-![Frontend](https://img.shields.io/badge/frontend-reactjs-blue)
 ![Google Cloud Platform](https://img.shields.io/badge/Platform-Google%20Cloud-blue)
 
 <p align="center">
-<a href="https://nowstackit.com" target="_blank"><img src="https://raw.githubusercontent.com/nowstackit/.github/main/profile/Stackit-wall.png" border="0" title="StackIt!" alt="StackIt!"></a> </p>
+<a href="https://nowstackit.com" target="_blank"><img src="https://github.com/Hiring-Stackit/.github/assets/51060067/d29fb416-2337-4744-a2fa-6925868d0ce9" border="0" title="StackIt!" alt="StackIt!"></a> </p>
 
 <h3 align="center"> Hello World! </h3>
 <h4 align="center"> Did you know all data lead to spreadsheets? That is why we are building StackIt. </h4>
@@ -15,7 +13,8 @@
 
 <p align="center"> Stackit :heart: developer communities! </p>
 
-Get Involved
+Get Involved!
+
 ----
 Best way to contribute to our journey is to join us. You can reach out to me at abhinav@nowstackit.com and we can find a suitable role for you. Stay calm & Keep coding! 
 
